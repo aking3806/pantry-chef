@@ -1,0 +1,96 @@
+## Design System & Interaction Guidelines
+
+---
+
+## Design Philosophy
+- Calm, warm, food-forward
+- No visual competition
+- Content over decoration
+- Motion reinforces hierarchy
+
+---
+
+## Color System
+
+### Usage Rules
+- **Terracotta** → primary actions only
+- **Olive** → supportive status
+- **Cream** → surface backgrounds
+- **Charcoal** → all text
+
+### Contrast
+- All text must meet **WCAG AA**
+- Muted text allowed **only** for metadata
+
+---
+
+## Typography
+
+### Fonts
+- **Headings:** Outfit  
+- **Body:** Inter
+
+### Scale
+- **H1:** 32–40px  
+- **H2:** 24–28px  
+- **Body:** 16px  
+- **Meta:** 14px
+
+### Rules
+- Never mix heading styles
+- Sentence case preferred
+
+---
+
+## Layout & Spacing
+
+### Grid
+- Max width: **1280px**
+- Horizontal padding: **24px**
+- Vertical rhythm: **8px base**
+
+### Cards
+- Padding: **24px**
+- Border radius: **16–24px**
+- Gap between cards: **24px**
+
+---
+
+## Shadows & Elevation
+
+### Levels
+- **Resting:** `shadow-sm`
+- **Hover:** `shadow-md`
+- No heavy shadows — ever
+
+### Rule
+- Elevation only on **interactive** elements
+
+---
+
+## Motion & Animation
+
+### Allowed
+- 150–300ms transitions
+- Ease-out curves
+- Hover lift ≤ **2%**
+
+### Forbidden
+- Bounce
+- Elastic easing
+- Continuous animation
+
+---
+
+## Interaction Feedback
+- All actions respond within **100ms**
+- Buttons move slightly on hover
+- Disabled states are visually obvious
+
+---
+
+## Accessibility
+- `:focus-visible` required
+- Fully keyboard navigable
+- No color-only indicators
+- Touch targets ≥ **44px**
