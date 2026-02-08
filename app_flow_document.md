@@ -8,10 +8,11 @@
 1. Open app  
 2. See **“What can you cook today?”**  
 3. Add ingredients  
-4. Instantly see matching recipes  
-5. Pick a recipe  
-6. View recipe card and instructions
-7. Cook 
+4. Instantly see matching recipes
+5. [optional] applies filter criteria
+6. Pick a recipe  
+7. View recipe card and instructions
+8. Cook 
 
 ---
 
@@ -36,6 +37,7 @@
 
 #### Responsibilities
 - Ingredient input
+- Filter criteria
 - Pantry staples summary
 - Recipe results
 - Recipe cards 
@@ -50,6 +52,7 @@
 #### Secondary Actions
 - Create pantry staples 
 - Edit pantry staples
+- Adjust or remove filters 
 - Favorite recipe
 - **“Just pick for me”**
 
