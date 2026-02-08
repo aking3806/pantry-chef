@@ -9,6 +9,32 @@
 - Motion reinforces hierarchy
 
 ---
+## Color Palette 
+javascript
+colors: {
+  terracotta: {
+    DEFAULT: '#D4816F',
+    dark: '#B86856',
+  },
+  cream: {
+    DEFAULT: '#FAF7F2',
+    soft: '#F5EFE6',
+  },
+  olive: {
+    DEFAULT: '#8B9A7D',
+    light: '#A8B89B',
+  },
+  charcoal: {
+    DEFAULT: '#3A3731',
+    soft: '#6B6760',
+  }
+}
+Typography
+javascript
+fontFamily: {
+  heading: ['Outfit', 'sans-serif'],
+  body: ['Inter', 'system-ui', 'sans-serif'],
+}
 
 ## Color System
 
